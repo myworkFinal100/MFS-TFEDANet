@@ -24,3 +24,5 @@ doi:10.1098/rspa. 2016.0871. URL http://dx.doi.org/10.1098/rspa.2016.0871"
   Contains the complete code for the **MFS-TFEDANet** study.
   The code can be executed by providing the required dataset details.
 
+
+Net_For_Real.mat containes the already trained TFEDANet model on real MMI dataset.
