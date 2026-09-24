@@ -9,15 +9,18 @@ doi:10.1098/rspa. 2016.0871. URL http://dx.doi.org/10.1098/rspa.2016.0871"
 ### Code Files
 
 * ExampleCode.m
+  
   Contains the complete end-to-end pipeline using the already trained **TFEDANet** model.
   Download the required files and run the script to reproduce the results.
 
 * WeightedComputation_Performance_Of_OA_DetectionMethod.m
+  
   Computes the weights of individual features and evaluates the performance of the
   **OA-contaminated EEG channel detection** method. The obtained feature weights
   are kept fixed throughout the study.
 
 * SS_DatasetCode
+  
   Contains the complete code for the **MFS-TFEDANet** study.
   The code can be executed by providing the required dataset details.
 
