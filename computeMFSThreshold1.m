@@ -38,12 +38,4 @@ switch lower(method)
     % Final check
     pred = MFS >= threshold;
 
-
-   
-
-       
-     
-        threshold = inf;
-
-    end
 end
