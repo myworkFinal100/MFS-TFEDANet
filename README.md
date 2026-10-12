@@ -19,9 +19,14 @@ doi:10.1098/rspa. 2016.0871. URL http://dx.doi.org/10.1098/rspa.2016.0871"
   **OA-contaminated EEG channel detection** method. The obtained feature weights
   are kept fixed throughout the study.
 
-* CompleteCode.m
+* CompleteCode_SS.m
   
-  Contains the complete code for the **MFS-TFEDANet** study.
+  Contains the complete code for the **MFS-TFEDANet** using SS dataset.
+  The code can be executed by providing the required dataset details.
+
+  * CompleteCode_MMI.m
+  
+  Contains the complete code for the **MFS-TFEDANet** using MMI dataset.
   The code can be executed by providing the required dataset details.
 
 
